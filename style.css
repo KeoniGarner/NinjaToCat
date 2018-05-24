@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+}
+
+#wrapper {
+    width: 970px;
+}
+
+#wrapper div {
+    width: 181px;
+    vertical-align: top;
+    margin: 5px 0px 0px 0px;
+}
+
+#wrapper button{
+    color: white;
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    box-shadow: 2px 2px 2px gray;
+    font-size: 20px;
+}
